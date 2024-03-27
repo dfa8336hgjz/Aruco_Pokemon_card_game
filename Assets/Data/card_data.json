@@ -1,0 +1,110 @@
+{
+    "list":
+    [
+        {
+          "tags":"system",
+          "description": "Change turn"
+        },
+        {
+          "tags":"action",
+          "description": "ATK + 500"
+        },
+        {
+          "tags":"action",
+          "description": "HP + 500"
+        },
+        {
+          "tags":"action",
+          "description": "Attack"
+        },
+        {
+          "tags":"action",
+          "description": "Level up"
+        },
+        {
+          "tags":"system",
+          "description": "deck"
+        },
+        {
+
+        },
+        {
+
+        },
+        {
+
+        },
+        {
+
+        },
+        {
+            "tags":"monster",
+            "names": [
+                "Charmander",
+                "Charmeleon",
+                "Charizard"
+                ],
+            "lvEvol": [
+                3,
+                7
+                ],
+            "type": 0,
+            "attack": [
+                1400,
+                1800,
+                2700
+                ],
+            "health": [
+                5000,
+                7000,
+                9500
+                ]
+        },
+        {
+          "tags":"monster",
+            "names": [
+              "Bulbasaur",
+              "Ivysaur",
+              "Venusaur"
+            ],
+            "lvEvol": [
+              3,
+              7
+            ],
+            "type": 1,
+            "attack": [
+              1100,
+              1600,
+              2100
+            ],
+            "health": [
+              5700,
+              8000,
+              10500
+            ]
+        },
+        {
+          "tags":"monster",
+            "names": [
+              "Squirtle",
+              "Wartortle",
+              "Blastoise"
+            ],
+            "lvEvol": [
+              3,
+              7
+            ],
+            "type": 2,
+            "attack": [
+              900,
+              1400,
+              2400
+            ],
+            "health": [
+              6200,
+              9000,
+              12000
+            ]
+          }
+    ]
+}
